@@ -6,7 +6,7 @@
 Machine Learning Practical Projects
 
 ## 项目介绍
-本仓库包含了我实现的几个机器学习经典算法的实战项目。这些项目展示了如何使用不同的机器学习模型来解决实际问题。
+本仓库包含了几个机器学习经典算法的实战项目。这些项目展示了如何使用不同的机器学习模型来解决实际问题。
 This repository contains several practical machine learning projects implemented by me, demonstrating how to use different machine learning models to solve real-world problems.
 
 ## 包含的项目
